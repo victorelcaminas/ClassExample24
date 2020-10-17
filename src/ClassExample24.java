@@ -3,7 +3,7 @@ class Example24 {
     public static void main (String argv[]) {
         int n, f;
         System.out.println("Enter a number:");
-//Reading the value
+        //Reading the value
         Scanner inputValue;
         inputValue = new Scanner(System.in);
         n = inputValue.nextInt();
